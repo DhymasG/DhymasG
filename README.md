@@ -49,7 +49,3 @@ API REST completa em Java 21 + Spring Boot para controle de contas a pagar e rec
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhymasG&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhymasG&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="160"/>
-</p>
