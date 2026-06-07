@@ -11,7 +11,7 @@
 
 - 💻 Desenvolvedor Full Stack com experiência em **Java/Spring Boot** no back-end e **React/Angular** no front-end
 - 🏗️ Trabalho com **APIs REST**, **arquitetura MVC**, **microsserviços** e integração entre sistemas
-- 📊 Formação em **Ciências Contábeis** + Análise e Desenvolvimento de Sistemas — visão técnica somada a visão de negócio
+- 📊 Formação em **Ciências Contábeis** e **Análise e Desenvolvimento de Sistemas** — Visão técnica somada a visão de negócio
 - 🎓 Cursando pós-graduações em **Engenharia de Software** e **Análise de Dados**
 - 🌱 Atualmente aprofundando **C# / .NET**, **Python/FastAPI** e **Docker**
 
